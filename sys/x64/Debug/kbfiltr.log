@@ -1,0 +1,19 @@
+﻿  Building 'kbfiltr' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\kbfiltr.inf
+  Stamping [Version] section with DriverVer=01/10/2024,21.18.58.206
+  kbfiltr.vcxproj -> C:\Rozwoj_osobisty\inz_testowe\Windows-driver-samples-main\input\kbfiltr\sys\x64\Debug\kbfiltr.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Rozwoj_osobisty\inz_testowe\Windows-driver-samples-main\input\kbfiltr\sys\x64\Debug\kbfiltr\kmdfsamples.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\kbfiltr\kmdfsamples.cat
+  
